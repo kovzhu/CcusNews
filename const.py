@@ -9,8 +9,8 @@ EMAIL_RECEIVERS =  ['cedric.lee@spglobal.com',
 
 
 # passwords for connect api
-USER_NAME = 'c12e557c-a19b-423a-a5b3-40ea067cae42'
-PASS_WORD = 'DQgnBtszFCwyzfz4'
+USER_NAME = 'xxx'
+PASS_WORD = 'xxx'
 
 # database name
 DATABASE_NAME = 'ccus_data_archive.db'
