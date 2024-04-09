@@ -1,11 +1,8 @@
 
 
-EMAIL_RECEIVERS =  ['cedric.lee@spglobal.com',
-                    'kunfeng.zhu@spglobal.com',
-                    'syazana.shamsuddin@spglobal.com',
-                    'nasuha.nazri@spglobal.com']
 
-# EMAIL_RECEIVERS =  ['kunfeng.zhu@spglobal.com']
+
+EMAIL_RECEIVERS =  ['kovkov@163.com']
 
 
 # passwords for connect api
